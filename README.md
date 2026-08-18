@@ -13,7 +13,3 @@ An end-to-end commercial sales and margin performance dashboard built in Microso
 * **Data Cleaning & Modeling:** Standardized messy transactional data using `VLOOKUP`, `YEAR`, `TEXT`, and `DAY` functions.
 * **Pivot Tables & Calculated Fields:** Built multi-dimensional summary tables to evaluate category contribution and margin health.
 * **Visualization:** Designed an interactive executive dashboard with dynamic KPI cards, combo time-series charts, and channel breakdown visuals.
-
-## 📂 Project Files
-* Download the full working spreadsheet: [`Retail_Sales_Dashboard.xlsx`](Retail_Sales_Dashboard.xlsx)
-https://github.com/Damiosun/retail-sales-profitability-dashboard/tree/main
